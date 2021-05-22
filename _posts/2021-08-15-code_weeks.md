@@ -7,3 +7,45 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [SGoC2021, Aztec glyphs]
 ---
+
+** WEEK 1: 7 - 13 JUN **
+
+x
+
+** WEEK 2: 14 - 20 JUN **
+
+x
+
+** WEEK 3: 21 - 27 JUN **
+
+x
+
+** WEEK 4: 28 JUN - 4 JUL **
+
+x
+
+** WEEK 5: 5 - 11 JUL **
+
+x
+
+** WEEK 6 (FIRST EVALUATION): 12 - 18 JUL **
+
+x
+
+** WEEK 7: 19 - 25 JUL **
+
+x
+
+** WEEK 8: 26 JUL - 1 AUG **
+
+x
+
+** WEEK 9: 2 - 8 AUG **
+
+x
+
+** WEEK 10: 9 - 15 AUG **
+
+x
+
+** AUG 16: END; **
