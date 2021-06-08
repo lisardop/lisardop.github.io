@@ -16,9 +16,9 @@ author: Lisardo Pérez Lugones
 navbar-links:
   About My Project: "aboutmyproject"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://summerofcode.withgoogle.com/projects/#5201622306652160"
+    - Visual Lexicon of Aztec Hieroglyphs: "https://aztecglyphs.uoregon.edu/"
+    - Red Hen Lab GSoC2021 Projects: "https://www.redhenlab.org/summer-of-code/red-hen-lab-gsoc-2021-projects"
+  Google Sumer of Code 2021: "https://summerofcode.withgoogle.com/projects/#5201622306652160"
 
 # --- Logo --- #
 
