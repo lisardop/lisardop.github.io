@@ -14,7 +14,7 @@ author: Lisardo Pérez Lugones
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About The Project: "aboutme"
+  About My Project: "aboutmyproject"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
