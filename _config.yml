@@ -14,12 +14,12 @@ author: Lisardo Pérez Lugones
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About My Project: "aboutmyproject"
   Resources:
     - Visual Lexicon of Aztec Hieroglyphs: "https://aztecglyphs.uoregon.edu/"
     - Red Hen Lab GSoC2021 Projects: "https://www.redhenlab.org/summer-of-code/red-hen-lab-gsoc-2021-projects"
   Google Sumer of Code 2021: "https://summerofcode.withgoogle.com/projects/#5201622306652160"
-
+  About My Project: "aboutmyproject"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
