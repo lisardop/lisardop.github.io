@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About My Projects
+title: About my Projects
 subtitle: Multimodal Graphic Communication System & Visual Recognition
 ---
 
