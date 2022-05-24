@@ -14,4 +14,4 @@ Among all the human writing communication systems and inspired by Google Arts & 
 
 ### Aztec Codex & Visual Recognition
 
-The [Visual Lexicon of Aztec Hieroglyphs](https://aztecglyphs.uoregon.edu/) ed. Stephanie Wood, is focused in early 16th-century **Mendoza Codex** and related from Mexico.
+The [Visual Recognition of Aztec Hieroglyphs](https://aztecglyphrecognition.herokuapp.com/) is based on [Visual Lexicon of Aztec Hieroglyphs](https://aztecglyphs.uoregon.edu/) ed. Stephanie Wood, focused in early 16th-century **Mendoza Codex** from Mexico and related.
