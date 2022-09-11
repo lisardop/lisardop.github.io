@@ -14,4 +14,4 @@ Among all the human writing communication systems and inspired by Google Arts & 
 
 ### Aztec Codex & Visual Recognition
 
-The [Visual Recognition of Aztec Hieroglyphs](https://aztecglyphrecognition.herokuapp.com/) is based on [Visual Lexicon of Aztec Hieroglyphs](https://aztecglyphs.uoregon.edu/) ed. Stephanie Wood, focused in early 16th-century **Mendoza Codex** from Mexico and related.
+The [Visual Recognition of Aztec Hieroglyphs](https://aztecglyphrecognition.wired-humanities.org/) and its [mirror URL](https://aztecglyphrecognition.herokuapp.com/) is based on [Visual Lexicon of Aztec Hieroglyphs](https://aztecglyphs.uoregon.edu/) ed. Stephanie Wood, focused in early 16th-century **Mendoza Codex** from Mexico and related, such as [**Matrícula de Tributos**](https://www.dropbox.com/sh/q0ld6ir0r2n2pn7/AAAjLrmcFfLra2mOe4tE7EZRa?dl=0).
